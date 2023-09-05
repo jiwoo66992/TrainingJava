@@ -1,0 +1,17 @@
+Khi muốn đồng bộ => Cần để synchronized vào trước method muốn đồng bộ
+
+OOP => Spring
+
+// Java reflection
+- Là một tính năng cho phép các app java có thể xem và thay đổi thông tin về class, method, properties
+    => tại runtime
+
+    + Class Executable: Cho phép class đấy được run
+
+
+// Bổ trợ cho OOP lập trình hướng khía cạnh
+OOP => Spring ()
+
+
+
+// Generic trong java
